@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Jenkins World!</h2>
+<h2>Jenkins Pipeline demo</h2>
 </body>
 </html>
